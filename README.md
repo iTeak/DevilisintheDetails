@@ -1,2 +1,2 @@
-# Challenge
+# Challenges
 1st Assignment 
